@@ -10,7 +10,7 @@ echo " Starting FastAPI deployment to Google Cloud Run..."
 PROJECT_ID=atharvmishra-2022bcs0115
 REGION=us-central1
 INSTANCE_CONNECTION_NAME=atharvmishra-2022bcs0115:us-central1:fastapi-mysql
-DB_PASSWORD=Atharv@10  
+DB_PASSWORD=""  
 
 echo " Configuration:"
 echo "   Project: $PROJECT_ID"
